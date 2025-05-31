@@ -1,0 +1,16 @@
+# Build
+/build/
+/dist/
+
+# NetBeans
+nbproject/private/
+build.xml~
+*.bak
+
+# Java
+*.class
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
