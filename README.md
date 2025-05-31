@@ -1,7 +1,7 @@
 # 🚌 Sistema de Viagens - Projeto Java (NetBeans + Ant)
 
-Projeto desenvolvido para disciplina de Programação Orientada a Objetos (POO) da Universidade Veiga de Almeida no curso de Engenharia da Computação, ministrada pelo professor Vinicius Marques. 
-O sistema simula uma empresa de ônibus, com funcionalidades de cadastro e gerenciamento de motoristas, ônibus, supervisores e viagens.
+Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO) do curso de Engenharia da Computação da Universidade Veiga de Almeida, no ano de 2022, sob orientação do professor Vinicius Marques.
+O sistema simula uma empresa de ônibus, com funcionalidades de cadastro e gerenciamento de motoristas, ônibus, supervisores e viagens, utilizando conceitos de programação orientada a objetos em Java.
 
 ## ✨ Funcionalidades
 
